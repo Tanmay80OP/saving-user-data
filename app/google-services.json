@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31951094634",
+    "project_id": "vsidop0k",
+    "storage_bucket": "vsidop0k.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31951094634:android:7b7dfe2f2c425816aadb13",
+        "android_client_info": {
+          "package_name": "com.example.savinguserdata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyCHoXYRFX6wr5ZgULiHkYW9U5g9abaYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
